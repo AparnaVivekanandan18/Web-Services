@@ -1,0 +1,90 @@
+.AddToCart
+{
+    /*max-width: 95%;*/
+    /*margin:auto;*/
+    /*border-style: outset;*/
+    /*position: relative;*/
+    /*top: 90px;*/
+    /*background-color: #ced4da;*/
+}
+
+.h3Class
+{
+    font-weight: bold;
+    float:left;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.imageLinkClass
+{
+    float:left;
+}
+.continueShoppingLink
+{
+    float:left;
+}
+.subTotal
+{
+    font-family: Arial, Helvetica, sans-serif;
+    float:right;
+    font-weight: bold;
+}
+.labelStyling
+{
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    font-size: larger;
+}
+.priceStyling
+{
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    font-weight: bold;
+}
+.inStock
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: #157347;
+}
+.quantityAndDeleteButton
+{
+    text-align: start;
+}
+
+.buttonClass
+{
+    height:100%;
+    width: 30%;
+    border: none;
+    padding-left: initial;
+    font-weight: bold;
+}
+.inputClass
+{
+    height:100%;
+    width:30%;
+    padding: 1px 6px;
+    border:none;
+    font-weight: bold;
+}
+.buttonClass:hover
+{
+    background-color: #adb5bd;
+}
+.paraClass
+{
+    font-weight: bold;
+    font-size: larger;
+}
+.couponClass
+{
+    color: #bb2d3b;
+}
+
+.errorMsg
+{
+    float: none;
+    font-size: 13px;
+    color: red;
+}

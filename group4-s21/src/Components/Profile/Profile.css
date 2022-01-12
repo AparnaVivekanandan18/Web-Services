@@ -1,0 +1,82 @@
+/*author: Anjali Chaudhary */
+.profile-page{
+    display:flex;
+    height:100vh;
+    width:100vw;
+    align-items: center;
+    justify-content: center;
+    background-image:url(https://source.unsplash.com/random/1920x1080);
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+}
+.profile-page:before{
+     content:"";
+    display:block;
+    position:fixed;
+    width:100%;
+    height:100%;
+    background-color:rgba(0,0,0,0.7);
+    top:0;
+    left:0;
+}
+.container{
+    max-width:1100px;
+    margin:0 auto;
+    width:100%;
+}
+.profile-page .content-wrap{
+    background-color:rgba(255,255,255,0.8);
+    border-radius:16px;
+    height:70vh;
+    padding:40px;
+    position: relative;
+    z-index: 1;
+}
+.profile-page .content-wrap h1{
+    text-align: center;
+    font-size:40px;
+    font-weight:500;
+
+}
+.profile-page .content-wrap h1 span{
+    color:orangered;
+    font-size:45px;
+    font-weight:700;
+    text-transform:capitalize;
+
+}
+.link-label{
+    font-size:17px;
+    font-weight:700;
+    margin-right:10px;
+}
+.link-wrap a{
+    color:royalblue;
+    font-size:17px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.link-wrap a:hover{
+    text-decoration: underline;
+}
+.link-wrap{
+    margin-bottom:15px;
+}
+.logout-btn{
+    display:inline-block;
+    padding:8px 20px;
+    border:2px solid brown;
+    color:brown;
+    border-radius: 8px;
+    transition:all 0.4s ease-in-out;
+    position:absolute;
+    bottom:20px;
+    right:20px;
+    font-weight:600;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.logout-btn:hover{
+    background-color:brown;
+    color:white;
+}

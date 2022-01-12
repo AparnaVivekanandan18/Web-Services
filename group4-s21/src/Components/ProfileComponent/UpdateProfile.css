@@ -1,0 +1,104 @@
+/*author: Anjali Chaudhary */
+.set-card-style-update{
+    margin-top: 2%;
+    margin-left: 30% !important;
+    width: 40em;
+    height: 47em;
+}
+
+.set-row-update{
+    background-image: url("../../images/update.jpeg");
+    min-height: 100vh;
+    margin-left: 0em !important;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+.set-img-update{
+    background-image: url("../../images/user.jpeg");
+    width: 7em;
+    height: 7em;
+    margin-left: 40.7%;
+    margin-bottom: 1em;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.set-card-update{
+    text-align: center;
+}
+
+.tl-c1-u{
+    color: #6E6E6DFF;
+    font-weight: bold;
+    font-size: 1.1em;
+    width: 30%;
+    text-align: left;
+}
+
+.tl-c2-u{
+    color: #6E6E6DFF;
+    width: 5%;
+    text-align: left;
+}
+
+.tl-c3-u{
+    width: 55%;
+    text-align: left;
+}
+
+.tl-c3e-u{
+    width: 55%;
+    text-align: left;
+    color: red;
+}
+
+.tl-c4-u{
+    color: #6E6E6DFF;
+    width: 10%;
+    text-align: left;
+    cursor: pointer;
+}
+
+.tl-c4-u :hover{
+    color: black;
+}
+
+.set-btn-style-update{
+    width: 40%;
+    margin-right: 1em;
+    margin-top: 0em;
+}
+
+.set-style-hr-update{
+    margin-top: 3em;
+}
+
+.tl-c11{
+    width: 45%;
+}
+
+.tl-c12{
+    width: 10%;
+}
+
+.tl-c13{
+    width: 45%
+}
+
+.set-tb-update{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.set-a-update{
+    color: #6E6E6DFF;
+}
+
+.set-div-update{
+    margin-bottom: 0.5em;
+}
+
+.set-alert-style-r{
+    margin-top: 2em;
+}

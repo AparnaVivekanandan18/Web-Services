@@ -1,0 +1,32 @@
+.continueShoppingLink
+{
+    float:left;
+}
+.summaryProductName
+{
+    width: 70%;
+    text-wrap: normal;
+}
+.summaryProductCount
+{
+    width: 20%;
+}
+.summaryPrice
+{
+}
+.fontStyle
+{
+    font-weight: bolder;
+}
+.total
+{
+    font-weight: bolder;
+    width: 70%;
+    text-align: right;
+}
+.amount
+{
+    font-weight: bolder;
+    width: 30%;
+    text-align: right;
+}

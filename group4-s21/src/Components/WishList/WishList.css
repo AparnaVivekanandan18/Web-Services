@@ -1,0 +1,85 @@
+/*author: Anjali Chaudhary */
+
+.set-style-wl-left{
+    background-color: #ffe6e6;
+    height: 84vh;
+    text-align: center;
+}
+
+.set-style-wl-right{
+    height: 84vh;
+    overflow-y: auto !important;
+}
+
+.set-width-wl-btn{
+    width: 100% !important;
+    color: #4d4d4d;
+}
+
+.set-wl-div{
+    margin-top: 1em;
+    cursor: pointer;
+}
+
+.set-wl-div-h{
+    margin-top: 1em;
+    cursor: pointer;
+    background: #ffb3b3;
+}
+
+.wl-1{
+    width: 30%;
+}
+
+.wl-2{
+    width: 70%;
+    color: red;
+}
+
+.set-card-style-1-wll{
+    margin-top: 0.5em;
+    min-height: 20em;
+}
+
+.custom-class1-wll{
+    /* border: 1px solid black; */
+    box-shadow: 3px 3px 6px -3px black;
+    margin-top: 2em;
+    margin-bottom: 1em !important;
+}
+
+.set-style-div-2-wll{
+    margin: auto;
+}
+
+.set-img-style-wll{
+    height: 11.5em;
+    max-width: 15em;
+}
+
+.custom-table-wll{
+    width: 130% !important;
+}
+
+.custom-button-wll{
+    margin-left: 200px;
+}
+
+.c1{
+    color: #0059b3 !important;
+    font-weight: bold;
+}
+
+.c2{
+    color: #7575a3 !important;
+}
+
+.set-style-spinner-wl{
+    margin-top: 25%;
+}
+
+.set-trash-wl{
+    position: absolute;
+    right: 0;
+    margin-right: 2em;
+}
